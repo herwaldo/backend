@@ -1,0 +1,8 @@
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Testing\bin\Debug\netcoreapp2.2\Testing.deps.json
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.json
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.dev.json
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Testing\bin\Debug\netcoreapp2.2\Testing.dll
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Testing\obj\Debug\netcoreapp2.2\Testing.csprojResolveAssemblyReference.cache
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Testing\obj\Debug\netcoreapp2.2\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfoInputs.cache
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfo.cs
