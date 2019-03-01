@@ -9,6 +9,7 @@ using Microsoft.IdentityModel.Tokens;
 using Negocio.TareasNegocio;
 using Negocio.UsuariosNegocio;
 using Persistencia.Repositorio;
+using Swashbuckle.AspNetCore.Swagger;
 using System.Text;
 
 namespace Servicios
@@ -43,11 +44,17 @@ namespace Servicios
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["ApiAuth:SecretKey"]))
                 };
             });
+            //Se inyectan las dependencias
             services.AddTransient<IUsuariosRepositorio, UsuariosRepositorio>();
             services.AddTransient<ITareasRepositorio, TareasRepositorio>();
             services.AddTransient<IUsuariosNegocio, UsuariosNegocio>();
             services.AddTransient<ITareasNegocio, TareasNegocio>();
-            
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Info { Title = "Servicios", Version = "v1" });
+            });
+
             //services.AddProveedorDbContext(Configuration.GetConnectionString("Default"));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
@@ -55,6 +62,7 @@ namespace Servicios
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            app.UseSwagger();
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -66,6 +74,12 @@ namespace Servicios
 
             app.UseHttpsRedirection();
             app.UseAuthentication();
+
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Servicios");
+            });
+
             app.UseMvc();
         }
 

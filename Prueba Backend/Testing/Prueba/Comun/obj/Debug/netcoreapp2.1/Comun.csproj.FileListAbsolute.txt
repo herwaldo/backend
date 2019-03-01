@@ -6,7 +6,6 @@ C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\C
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfo.cs
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.dll
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.pdb
-C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csprojAssemblyReference.cache
 C:\Repositorios\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.deps.json
 C:\Repositorios\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.dll
 C:\Repositorios\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.pdb
@@ -16,12 +15,4 @@ C:\Repositorios\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfoI
 C:\Repositorios\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfo.cs
 C:\Repositorios\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.dll
 C:\Repositorios\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.pdb
-C:\Users\Hernán\Desktop\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.deps.json
-C:\Users\Hernán\Desktop\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.dll
-C:\Users\Hernán\Desktop\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.pdb
-C:\Users\Hernán\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csprojAssemblyReference.cache
-C:\Users\Hernán\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csproj.CoreCompileInputs.cache
-C:\Users\Hernán\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfoInputs.cache
-C:\Users\Hernán\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfo.cs
-C:\Users\Hernán\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.dll
-C:\Users\Hernán\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.pdb
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csprojAssemblyReference.cache

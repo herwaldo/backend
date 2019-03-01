@@ -10,7 +10,6 @@ C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.dll
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.pdb
-C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csprojResolveAssemblyReference.cache
 C:\Repositorios\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.deps.json
 C:\Repositorios\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.dll
 C:\Repositorios\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.pdb
@@ -25,17 +24,5 @@ C:\Repositorios\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyI
 C:\Repositorios\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CopyComplete
 C:\Repositorios\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.dll
 C:\Repositorios\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.deps.json
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.dll
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.pdb
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.dll
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Persistencia.dll
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.pdb
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Persistencia.pdb
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csprojAssemblyReference.cache
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CoreCompileInputs.cache
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfoInputs.cache
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfo.cs
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CopyComplete
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.dll
-C:\Users\Hernán\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csprojAssemblyReference.cache
+C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CopyComplete
