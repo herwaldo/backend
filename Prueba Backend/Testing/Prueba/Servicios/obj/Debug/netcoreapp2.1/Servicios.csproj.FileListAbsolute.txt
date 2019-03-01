@@ -40,3 +40,24 @@ C:\Repositorios\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.dll
 C:\Repositorios\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.pdb
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.csprojAssemblyReference.cache
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.csproj.CopyComplete
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Servicios.deps.json
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Servicios.runtimeconfig.json
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Servicios.runtimeconfig.dev.json
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Servicios.dll
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Servicios.pdb
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Comun.dll
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Negocio.dll
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Persistencia.dll
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Negocio.pdb
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Comun.pdb
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\bin\Debug\netcoreapp2.1\Persistencia.pdb
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.csprojAssemblyReference.cache
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.csproj.CoreCompileInputs.cache
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.RazorAssemblyInfo.cache
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.RazorAssemblyInfo.cs
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.AssemblyInfoInputs.cache
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.AssemblyInfo.cs
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.RazorTargetAssemblyInfo.cache
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.csproj.CopyComplete
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.dll
+D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Servicios\obj\Debug\netcoreapp2.1\Servicios.pdb

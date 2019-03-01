@@ -5391,23 +5391,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hernán\\.nuget\\packages\\": {},
+    "C:\\Users\\GITECX\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hernán\\Desktop\\Testing\\Prueba\\Testing\\Testing.csproj",
+      "projectUniqueName": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Testing\\Testing.csproj",
       "projectName": "Testing",
-      "projectPath": "C:\\Users\\Hernán\\Desktop\\Testing\\Prueba\\Testing\\Testing.csproj",
-      "packagesPath": "C:\\Users\\Hernán\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hernán\\Desktop\\Testing\\Prueba\\Testing\\obj\\",
+      "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Testing\\Testing.csproj",
+      "packagesPath": "C:\\Users\\GITECX\\.nuget\\packages\\",
+      "outputPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hernán\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GITECX\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5420,8 +5420,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Hernán\\Desktop\\Testing\\Prueba\\Negocio\\Negocio.csproj": {
-              "projectPath": "C:\\Users\\Hernán\\Desktop\\Testing\\Prueba\\Negocio\\Negocio.csproj"
+            "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Negocio\\Negocio.csproj": {
+              "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Negocio\\Negocio.csproj"
             }
           }
         }
