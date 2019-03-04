@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Comun\\Comun.csproj",
+      "projectUniqueName": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Comun\\Comun.csproj",
       "projectName": "Comun",
-      "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Comun\\Comun.csproj",
+      "projectPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Comun\\Comun.csproj",
       "packagesPath": "C:\\Users\\GITECX\\.nuget\\packages\\",
-      "outputPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Comun\\obj\\",
+      "outputPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Comun\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

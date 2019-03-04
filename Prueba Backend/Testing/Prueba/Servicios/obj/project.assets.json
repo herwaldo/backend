@@ -5745,6 +5745,7 @@
       "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
+      "hasTools": true,
       "files": [
         ".nupkg.metadata",
         "ThirdPartyNotices.rtf",
@@ -12058,11 +12059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Servicios\\Servicios.csproj",
+      "projectUniqueName": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Servicios\\Servicios.csproj",
       "projectName": "Servicios",
-      "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Servicios\\Servicios.csproj",
+      "projectPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Servicios\\Servicios.csproj",
       "packagesPath": "C:\\Users\\GITECX\\.nuget\\packages\\",
-      "outputPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Servicios\\obj\\",
+      "outputPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Servicios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12081,8 +12082,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Negocio\\Negocio.csproj": {
-              "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Negocio\\Negocio.csproj"
+            "D:\\GITECX\\Desktop\\Testing\\Prueba\\Negocio\\Negocio.csproj": {
+              "projectPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Negocio\\Negocio.csproj"
             }
           }
         }

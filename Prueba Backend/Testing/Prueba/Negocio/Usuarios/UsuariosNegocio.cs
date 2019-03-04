@@ -58,6 +58,7 @@ namespace Negocio.UsuariosNegocio
         {
             try
             {
+                
                 var config = new MapperConfiguration(cfg => {
 
                     cfg.CreateMap<UsuariosModel, Usuarios>();
@@ -66,8 +67,9 @@ namespace Negocio.UsuariosNegocio
 
                 IMapper iMapper = config.CreateMapper();
                 var usuarioEntidad = iMapper.Map<Usuarios>(usuario);
-
-                var buscarUsuario = _usuariosRepositorio.GetByIdAsync(usuario.Id);
+                
+                //Console.WriteLine($"Usuarios -> Id : {usuario.Id}");
+                var buscarUsuario = await _usuariosRepositorio.GetByIdAsync(usuario.Id);
                 if(buscarUsuario == null)
                 {
                     await _usuariosRepositorio.CreateAsync(usuarioEntidad);
@@ -76,6 +78,7 @@ namespace Negocio.UsuariosNegocio
                 {
                     throw new Exception("El usuario ya existe");
                 }
+                
                 
             }
             catch(Exception e)
@@ -98,7 +101,7 @@ namespace Negocio.UsuariosNegocio
                 IMapper iMapper = config.CreateMapper();
                 var usuarioEntidad = iMapper.Map<Usuarios>(usuario);
 
-                var buscarUsuario = _usuariosRepositorio.GetByIdAsync(usuario.Id);
+                var buscarUsuario = await _usuariosRepositorio.GetByIdAsync(usuario.Id);
                 if(buscarUsuario != null)
                 {
                     await _usuariosRepositorio.DeleteAsync(usuarioEntidad);
@@ -129,7 +132,7 @@ namespace Negocio.UsuariosNegocio
                 IMapper iMapper = config.CreateMapper();
                 var usuarioEntidad = iMapper.Map<Usuarios>(usuario);
 
-                var buscarUsuario = _usuariosRepositorio.GetByIdAsync(usuario.Id);
+                var buscarUsuario = await _usuariosRepositorio.GetByIdAsync(usuario.Id);
                 if (buscarUsuario != null)
                 {
                     await _usuariosRepositorio.UpdateAsync(usuarioEntidad);

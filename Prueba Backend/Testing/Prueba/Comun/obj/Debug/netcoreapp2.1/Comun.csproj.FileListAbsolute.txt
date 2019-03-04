@@ -16,12 +16,21 @@ C:\Repositorios\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfo.
 C:\Repositorios\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.dll
 C:\Repositorios\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.pdb
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csprojAssemblyReference.cache
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.deps.json
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.dll
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.pdb
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csprojAssemblyReference.cache
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csproj.CoreCompileInputs.cache
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfoInputs.cache
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfo.cs
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.dll
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.pdb
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.deps.json
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.dll
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.pdb
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csprojAssemblyReference.cache
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfoInputs.cache
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfo.cs
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.dll
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.pdb
+D:\GITECX\Desktop\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.deps.json
+D:\GITECX\Desktop\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.dll
+D:\GITECX\Desktop\Testing\Prueba\Comun\bin\Debug\netcoreapp2.1\Comun.pdb
+D:\GITECX\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csproj.CoreCompileInputs.cache
+D:\GITECX\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfoInputs.cache
+D:\GITECX\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.AssemblyInfo.cs
+D:\GITECX\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.dll
+D:\GITECX\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.pdb
+D:\GITECX\Desktop\Testing\Prueba\Comun\obj\Debug\netcoreapp2.1\Comun.csprojAssemblyReference.cache

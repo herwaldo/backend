@@ -137,7 +137,7 @@ namespace Negocio.TareasNegocio
                 IMapper iMapper = config.CreateMapper();
                 var tareaEntidad = iMapper.Map<Tareas>(tarea);
 
-                var buscarTarea = _tareasRepositorio.GetByIdAsync(tarea.Id);
+                var buscarTarea = await _tareasRepositorio.GetByIdAsync(tarea.Id);
                 if(buscarTarea == null)
                 {
                     await _tareasRepositorio.CreateAsync(tareaEntidad);
@@ -167,7 +167,7 @@ namespace Negocio.TareasNegocio
                 IMapper iMapper = config.CreateMapper();
                 var tareaEntidad = iMapper.Map<Tareas>(tarea);
 
-                var buscarTarea = _tareasRepositorio.GetByIdAsync(tarea.Id);
+                var buscarTarea = await _tareasRepositorio.GetByIdAsync(tarea.Id);
                 if(buscarTarea != null)
                 {
                     await _tareasRepositorio.DeleteAsync(tareaEntidad);
@@ -197,7 +197,7 @@ namespace Negocio.TareasNegocio
                 IMapper iMapper = config.CreateMapper();
                 var tareaEntidad = iMapper.Map<Tareas>(tarea);
 
-                var buscarTarea = _tareasRepositorio.GetByIdAsync(tarea.Id);
+                var buscarTarea = await _tareasRepositorio.GetByIdAsync(tarea.Id);
                 if(buscarTarea != null)
                 {
                     await _tareasRepositorio.UpdateAsync(tareaEntidad);

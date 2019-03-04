@@ -36,7 +36,7 @@ namespace Persistencia.Repositorio
             await Task.Factory.StartNew(() =>
             {
                 _repositorioBase.Add(tarea);
-                _repositorioBase.Save();
+				_repositorioBase.Save();
             });
         }
 
@@ -45,7 +45,7 @@ namespace Persistencia.Repositorio
             await Task.Factory.StartNew(() =>
             {
                 _repositorioBase.Edit(tarea);
-                _repositorioBase.Save();
+				_repositorioBase.Save();
             });
         }
 
@@ -54,7 +54,7 @@ namespace Persistencia.Repositorio
             await Task.Factory.StartNew(() =>
             {
                 _repositorioBase.Delete(tarea);
-                _repositorioBase.Save();
+				_repositorioBase.Save();
             });
         }
     }

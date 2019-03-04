@@ -3548,11 +3548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Negocio\\Negocio.csproj",
+      "projectUniqueName": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Negocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Negocio\\Negocio.csproj",
+      "projectPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Negocio\\Negocio.csproj",
       "packagesPath": "C:\\Users\\GITECX\\.nuget\\packages\\",
-      "outputPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Negocio\\obj\\",
+      "outputPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3571,11 +3571,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Comun\\Comun.csproj": {
-              "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Comun\\Comun.csproj"
+            "D:\\GITECX\\Desktop\\Testing\\Prueba\\Comun\\Comun.csproj": {
+              "projectPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Comun\\Comun.csproj"
             },
-            "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Persistencia\\Persistencia.csproj"
+            "D:\\GITECX\\Desktop\\Testing\\Prueba\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Persistencia\\Persistencia.csproj"
             }
           }
         }

@@ -3465,11 +3465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Persistencia\\Persistencia.csproj",
+      "projectPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Persistencia\\Persistencia.csproj",
       "packagesPath": "C:\\Users\\GITECX\\.nuget\\packages\\",
-      "outputPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Persistencia\\obj\\",
+      "outputPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

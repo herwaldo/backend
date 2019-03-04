@@ -78,7 +78,7 @@ namespace Servicios.Controllers
 
         [HttpPost]
         [Route("[action]")]
-        public async Task Crear([FromBody] UsuariosModel usuario)
+        public async Task Crear(UsuariosModel usuario)
         {
             await _usuariosNegocio.Crear(usuario);
         }

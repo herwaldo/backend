@@ -1527,6 +1527,7 @@
       "path": "castle.core/4.3.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ASL - Apache Software Foundation License.txt",
         "CHANGELOG.md",
         "LICENSE",
@@ -1637,6 +1638,7 @@
       "path": "microsoft.dotnet.platformabstractions/1.1.2",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net451/Microsoft.DotNet.PlatformAbstractions.dll",
         "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll",
         "microsoft.dotnet.platformabstractions.1.1.2.nupkg.sha512",
@@ -1861,6 +1863,7 @@
       "path": "microsoft.extensions.dependencymodel/1.1.2",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net451/Microsoft.Extensions.DependencyModel.dll",
         "lib/netstandard1.3/Microsoft.Extensions.DependencyModel.dll",
         "lib/netstandard1.6/Microsoft.Extensions.DependencyModel.dll",
@@ -5397,11 +5400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Testing\\Testing.csproj",
+      "projectUniqueName": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Testing\\Testing.csproj",
       "projectName": "Testing",
-      "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Testing\\Testing.csproj",
+      "projectPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Testing\\Testing.csproj",
       "packagesPath": "C:\\Users\\GITECX\\.nuget\\packages\\",
-      "outputPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Testing\\obj\\",
+      "outputPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5420,8 +5423,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Negocio\\Negocio.csproj": {
-              "projectPath": "D:\\GITECX\\Desktop\\backend-master\\Prueba Backend\\Testing\\Prueba\\Negocio\\Negocio.csproj"
+            "D:\\GITECX\\Desktop\\Testing\\Prueba\\Negocio\\Negocio.csproj": {
+              "projectPath": "D:\\GITECX\\Desktop\\Testing\\Prueba\\Negocio\\Negocio.csproj"
             }
           }
         }

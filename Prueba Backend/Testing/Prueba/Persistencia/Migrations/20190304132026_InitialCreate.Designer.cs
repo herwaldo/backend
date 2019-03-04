@@ -10,15 +10,15 @@ using Persistencia.Context;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(PruebaContext))]
-    [Migration("20190301163617_Migracion1")]
-    partial class Migracion1
+    [Migration("20190304132026_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.SerialColumn)
-                .HasAnnotation("ProductVersion", "2.1.8-servicing-32085")
+                .HasAnnotation("ProductVersion", "2.1.1-rtm-30846")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
             modelBuilder.Entity("Persistencia.Entidades.Tareas", b =>

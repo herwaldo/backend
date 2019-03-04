@@ -26,17 +26,31 @@ C:\Repositorios\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.dll
 C:\Repositorios\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csprojAssemblyReference.cache
 C:\Users\Sergio.Murillo\Documents\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CopyComplete
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.deps.json
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.dll
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.pdb
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.dll
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Persistencia.dll
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.pdb
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Persistencia.pdb
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csprojAssemblyReference.cache
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CoreCompileInputs.cache
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfoInputs.cache
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfo.cs
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CopyComplete
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.dll
-D:\GITECX\Desktop\backend-master\Prueba Backend\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.deps.json
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.dll
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.pdb
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.dll
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Persistencia.dll
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.pdb
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Persistencia.pdb
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csprojAssemblyReference.cache
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfo.cs
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CopyComplete
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.dll
+C:\Users\Sergio Murillo\Downloads\Testing\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb
+D:\GITECX\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.deps.json
+D:\GITECX\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.dll
+D:\GITECX\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Negocio.pdb
+D:\GITECX\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.dll
+D:\GITECX\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Persistencia.dll
+D:\GITECX\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Comun.pdb
+D:\GITECX\Desktop\Testing\Prueba\Negocio\bin\Debug\netcoreapp2.1\Persistencia.pdb
+D:\GITECX\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csprojAssemblyReference.cache
+D:\GITECX\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CoreCompileInputs.cache
+D:\GITECX\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfoInputs.cache
+D:\GITECX\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfo.cs
+D:\GITECX\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CopyComplete
+D:\GITECX\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.dll
+D:\GITECX\Desktop\Testing\Prueba\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb
